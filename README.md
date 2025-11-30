@@ -1,0 +1,1 @@
+The solution file is in C:\Users\your user\Downloads\Terminal-Calculator2-main\Terminal-Calculator2-main\Calculator\Calculator.sln and the executable is in "C:\Users\whatever your user is\Downloads\Terminal-Calculator2-main\Terminal-Calculator2-main\Calculator\Calculator\bin\Debug\net9.0\Calculator.exe"
